@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510910214 source:/home/zh/c++/file/main.cpp
+	<iostream>
+	"Stock.h"
+
+1510909331 /home/zh/c++/file/Stock.h
+
+1510909478 source:/home/zh/c++/file/Stock.cpp
+	<iostream>
+	"Stock.h"
+
